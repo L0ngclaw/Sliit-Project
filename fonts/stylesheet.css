@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Satoshi Variable';
+    src: url('SatoshiVariable-Bold.woff2') format('woff2'),
+        url('SatoshiVariable-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
